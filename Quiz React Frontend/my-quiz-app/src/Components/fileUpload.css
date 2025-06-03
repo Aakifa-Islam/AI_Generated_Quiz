@@ -1,0 +1,116 @@
+   /* Main container for the file upload form */
+.file-upload-container {
+  max-width: 700px;
+  margin: 50px auto;
+  padding: 30px;
+  border: 1px solid #080101;
+  border-radius: 12px;
+ background:  linear-gradient(45deg, #c0c6eb, #ebc5c5);
+  box-shadow: 0 12px 20px rgba(65, 58, 58, 0.932);
+  text-align: center;
+  color: rgb(43, 16, 16);
+  
+}
+
+/* Title styling */
+.file-upload-container h2 {
+  margin-bottom: 20px;
+  font-size: 28px;
+  font-weight: bold;
+  color: rgb(22, 14, 14);
+  text-shadow: 2px 2px 4px rgba(175, 171, 171, 0.856);
+}
+
+/* Upload form styling */
+.upload-form {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+
+/* Label styling */
+.upload-form label {
+  font-size: 20px;
+  font-weight: bold;
+  color: rgb(10, 5, 5);
+}
+
+/* Input fields styling */
+.upload-form input[type="file"],
+.upload-form input[type="number"],
+.upload-form select {
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 8px;
+  border: 1px solid #020101;
+  width: 100%;
+  max-width: 300px;
+}
+
+/* Submit button styling */
+.upload-form button {
+  padding: 15px;
+  background-color: #276597;
+  color: rgb(255, 254, 254);
+  font-weight: bold;
+  font-size: 15px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  width: 100%;
+  max-width: 300px;
+}
+
+.upload-form button:hover {
+  background-color: #28313a;
+}
+
+/* Processing Screen */
+.processing-screen {
+  display: none;
+  font-size: 20px;
+  color: #0f1318;
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+.processing-screen.active {
+  display: block;
+}
+
+/* Result component styling */
+.result-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.result-container h3 {
+  font-size: 33px;
+  color: #010a01;
+}
+
+.result-container .questions {
+  margin-top: 20px;
+}
+
+.result-container .question-item {
+  margin-bottom: 15px;
+}
+
+.result-container .question-item span {
+  font-weight: bold;
+}
+
+.result-container .question-item ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.result-container .question-item ul li {
+  margin: 8px 0;
+  padding: 5px;
+  background-color: #f9f9f9;
+  border-radius: 5px;
+}
