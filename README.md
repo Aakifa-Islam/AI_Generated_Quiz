@@ -9,6 +9,10 @@ Built with **FastAPI** (Backend) and **React** (Frontend), using **Gemini API** 
 ---
 
 
+
+<img src="https://github.com/Aakifa-Islam/AI_Generated_Quiz/blob/ab15f8fdeedf8a583e35987236d2ebbdd0c43ed8/New%20folder/Quiz1.png?raw=true" alt="Quiz Screenshot" width="500"/>
+
+
 ## How to Run This Project
 ### Frontend Setup
 
