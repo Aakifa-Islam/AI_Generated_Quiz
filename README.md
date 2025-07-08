@@ -9,12 +9,9 @@ Built with **FastAPI** (Backend) and **React** (Frontend), using **Gemini API** 
 ---
 
 
-
 ## How to Run This Project
-
 ### Frontend Setup
 
-```bash
 -Open Terminal in "Quiz React Frontend" folder
 cd "Quiz React Frontend"
 
@@ -26,8 +23,6 @@ npm install
 
 -Run the frontend
 npm run dev
-
-
 
 ### Backend
 -Open Terminal in "Ai Quiz backend" folder
