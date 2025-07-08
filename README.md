@@ -8,9 +8,9 @@ Built with **FastAPI** (Backend) and **React** (Frontend), using **Gemini API** 
 - Generate MCQs using Gemini API
 ---
 <p align="center">
-  <img src="https://github.com/Aakifa-Islam/AI_Generated_Quiz/blob/ab15f8fdeedf8a583e35987236d2ebbdd0c43ed8/New%20folder/Quiz1.png?raw=true" alt="Quiz Screenshot 1" width="300"/>
-  <img src="https://github.com/Aakifa-Islam/AI_Generated_Quiz/blob/ab15f8fdeedf8a583e35987236d2ebbdd0c43ed8/New%20folder/quiz5555.png?raw=true" alt="Quiz Screenshot 2" width="300"/>
-  <img src="https://github.com/Aakifa-Islam/AI_Generated_Quiz/blob/ab15f8fdeedf8a583e35987236d2ebbdd0c43ed8/New%20folder/quiz5.png?raw=true" alt="Quiz Screenshot 3" width="300"/>
+  <img src="https://github.com/Aakifa-Islam/AI_Generated_Quiz/blob/ab15f8fdeedf8a583e35987236d2ebbdd0c43ed8/New%20folder/Quiz1.png?raw=true" alt="Quiz Screenshot 1" width="350"/>
+  <img src="https://github.com/Aakifa-Islam/AI_Generated_Quiz/blob/ab15f8fdeedf8a583e35987236d2ebbdd0c43ed8/New%20folder/quiz5555.png?raw=true" alt="Quiz Screenshot 2" width="350"/>
+  <img src="https://github.com/Aakifa-Islam/AI_Generated_Quiz/blob/ab15f8fdeedf8a583e35987236d2ebbdd0c43ed8/New%20folder/quiz5.png?raw=true" alt="Quiz Screenshot 3" width="350"/>
 </p>
 ---
 
